@@ -1,0 +1,150 @@
+{
+    "scene_name": "World-292",
+    "total_ndp": 93,
+    "actors": [
+        {
+            "name": "Whispering_Statue_0",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 31,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A whispering statue 0."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "dread"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "humming with a low energy"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '1258'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '8547'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Sunken_Gate_1",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 31,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A sunken gate 1."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "melancholy"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "rumored to be a gateway"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '1046'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '2417'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Forgotten_City_2",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 31,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A forgotten city 2."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "longing"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "rumored to be a gateway"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '7283'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '9629'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

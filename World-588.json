@@ -1,0 +1,276 @@
+{
+    "scene_name": "World-588",
+    "total_ndp": 205,
+    "actors": [
+        {
+            "name": "Shattered_City_0",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 41,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A shattered city 0."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "awe"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "humming with a low energy"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '4844'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '4087'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '9023'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Ancient_Gate_1",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 41,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A ancient gate 1."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "longing"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "rumored to be a gateway"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '8274'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '2868'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '6377'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Shattered_Gate_2",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 41,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A shattered gate 2."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "dread"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "humming with a low energy"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '6090'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '7863'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '1781'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Forgotten_River_3",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 41,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A forgotten river 3."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "dread"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "where time feels slower"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '9452'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '9777'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '7429'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Forgotten_Forest_4",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 41,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A forgotten forest 4."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "awe"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "covered in glowing runes"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '4268'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '3648'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '6361'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

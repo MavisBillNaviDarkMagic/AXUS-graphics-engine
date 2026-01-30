@@ -1,0 +1,216 @@
+{
+    "scene_name": "Mundo-467",
+    "total_ndp": 105,
+    "actors": [
+        {
+            "name": "Inquebrantable_Alba_0",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 21,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "tipo": "Ubicaci\u00f3n",
+                                    "resumen": "Un(a) inquebrantable alba 0."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emoci\u00f3n": "alegr\u00eda desafiante"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "rasgo": "las viejas ruinas dan paso a una nueva vida"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "secreto": "Una inscripci\u00f3n susurra una palabra olvidada"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Inquebrantable_Forja_1",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 21,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "tipo": "Ubicaci\u00f3n",
+                                    "resumen": "Un(a) inquebrantable forja 1."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emoci\u00f3n": "esperanza feroz"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "rasgo": "emana un aura de potencial puro"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "secreto": "Una inscripci\u00f3n susurra una palabra olvidada"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Flameante_Forja_2",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 21,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "tipo": "Ubicaci\u00f3n",
+                                    "resumen": "Un(a) flameante forja 2."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emoci\u00f3n": "esperanza feroz"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "rasgo": "emana un aura de potencial puro"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "secreto": "Una inscripci\u00f3n susurra una palabra olvidada"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Flameante_Volc\u00e1n_3",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 21,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "tipo": "Ubicaci\u00f3n",
+                                    "resumen": "Un(a) flameante volc\u00e1n 3."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emoci\u00f3n": "determinaci\u00f3n"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "rasgo": "las viejas ruinas dan paso a una nueva vida"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "secreto": "Una inscripci\u00f3n susurra una palabra olvidada"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Ascendente_Coraz\u00f3n_4",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 21,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "tipo": "Ubicaci\u00f3n",
+                                    "resumen": "Un(a) ascendente coraz\u00f3n 4."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emoci\u00f3n": "alegr\u00eda desafiante"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "rasgo": "crece de las cenizas de lo que fue antes"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "secreto": "Una inscripci\u00f3n susurra una palabra olvidada"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

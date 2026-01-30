@@ -1,0 +1,150 @@
+{
+    "scene_name": "World-194",
+    "total_ndp": 93,
+    "actors": [
+        {
+            "name": "Cursed_Forest_0",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 31,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A cursed forest 0."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "melancholy"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "cracked by a great sorrow"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '2794'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '7295'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Glowing_Statue_1",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 31,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A glowing statue 1."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "longing"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "cracked by a great sorrow"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '6889'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '5168'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Glowing_River_2",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 31,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A glowing river 2."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "dread"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "where time feels slower"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '2535'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '5802'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "scene_name": "World-438",
+    "total_ndp": 93,
+    "actors": [
+        {
+            "name": "Sunken_River_0",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 31,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A sunken river 0."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "serenity"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "humming with a low energy"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '4132'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '6072'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Glowing_Tower_1",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 31,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A glowing tower 1."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "melancholy"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "where time feels slower"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '1845'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '2104'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Sunken_Throne_2",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 31,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A sunken throne 2."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "awe"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "where time feels slower"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '4252'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '4372'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

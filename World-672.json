@@ -1,0 +1,150 @@
+{
+    "scene_name": "World-672",
+    "total_ndp": 93,
+    "actors": [
+        {
+            "name": "Sunken_Forest_0",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 31,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A sunken forest 0."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "awe"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "where time feels slower"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '5602'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '5016'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Cursed_River_1",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 31,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A cursed river 1."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "awe"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "covered in glowing runes"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '7589'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '7633'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Shattered_Throne_2",
+            "components": [
+                {
+                    "type": "NarrativeLODComponent",
+                    "total_detail_points": 31,
+                    "lods": {
+                        "0": [
+                            {
+                                "details": {
+                                    "type": "Location",
+                                    "summary": "A shattered throne 2."
+                                },
+                                "detail_points": 1
+                            }
+                        ],
+                        "1": [
+                            {
+                                "details": {
+                                    "emotion": "dread"
+                                },
+                                "detail_points": 5
+                            },
+                            {
+                                "details": {
+                                    "feature": "covered in glowing runes"
+                                },
+                                "detail_points": 5
+                            }
+                        ],
+                        "2": [
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '2402'"
+                                },
+                                "detail_points": 10
+                            },
+                            {
+                                "details": {
+                                    "hidden_detail": "An inscription reads '9506'"
+                                },
+                                "detail_points": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
